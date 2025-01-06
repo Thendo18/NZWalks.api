@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Q8+UO/xbYrtpQmKz4V8fo9vqROpSf4VteHNzEF424bNASB44GZ5zE8bH+9Z7Cog94pdxIkgA8LG0QA3kvvt9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThendoMakherana\\source\\repos\\NZWalks.api\\NZWalks.API\\NZWalks.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
