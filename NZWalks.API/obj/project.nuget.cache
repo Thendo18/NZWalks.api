@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mBM/9jjd6KlXhzfkL7cekJrTUsd75JyhA2g2IWWAPbIyI35CJ8eoL/A5cr/gVKeuIzskZx2sVw+XIYNuZj9ePw==",
+  "dgSpecHash": "DGzH39BCnBot/uK115j0YMPfuHJeGAXOgmAb6p71QhO8JROn7qF0Qb1iAXYM0I8lhV8YtWYpJiytc3gcf+bszQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ThendoMakherana\\source\\repos\\NZWalks.api\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\ThendoMakherana\\.nuget\\packages\\servicestack.interfaces\\8.5.2\\servicestack.interfaces.8.5.2.nupkg.sha512",
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\ThendoMakherana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
