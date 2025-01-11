@@ -201,3 +201,4 @@ C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\r
 C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\bin\Debug\net8.0\global.json
