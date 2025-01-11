@@ -30,3 +30,11 @@ C:\Users\ThendoMakherana\OneDrive - Touchsides SA Pty LTD\Documents\ASP.NET Udem
 C:\Users\ThendoMakherana\OneDrive - Touchsides SA Pty LTD\Documents\ASP.NET Udemy Course\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 C:\Users\ThendoMakherana\OneDrive - Touchsides SA Pty LTD\Documents\ASP.NET Udemy Course\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 C:\Users\ThendoMakherana\OneDrive - Touchsides SA Pty LTD\Documents\ASP.NET Udemy Course\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.AssemblyReference.cache
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfoInputs.cache
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfo.cs
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThendoMakherana\source\repos\NZWalks.api\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
