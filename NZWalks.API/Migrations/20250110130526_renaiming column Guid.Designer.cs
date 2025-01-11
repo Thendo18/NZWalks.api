@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using NZWalks.API.Data;
 
@@ -11,9 +12,11 @@ using NZWalks.API.Data;
 namespace NZWalks.API.Migrations
 {
     [DbContext(typeof(NzWalksDbContext))]
-    partial class NzWalksDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250110130526_renaiming column Guid")]
+    partial class renaimingcolumnGuid
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -122,7 +125,7 @@ namespace NZWalks.API.Migrations
 
             modelBuilder.Entity("NZWalks.API.Models.Domain.Walks", b =>
                 {
-                    b.HasOne("NZWalks.API.Models.Domain.Difficulty", "Difficulty")
+                    b.HasOne("NZWalks.API.Models.Domain.Difficulty", "Deficulty")
                         .WithMany()
                         .HasForeignKey("DifficultyId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -134,7 +137,7 @@ namespace NZWalks.API.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Difficulty");
+                    b.Navigation("Deficulty");
 
                     b.Navigation("Region");
                 });
