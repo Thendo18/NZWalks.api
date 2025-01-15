@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NZWalks.API", "NZWalks.API\NZWalks.API.csproj", "{B8CEB7D5-BB85-4EAA-A198-F8574A760476}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "nzwalks.ui", "..\NZWalks.UI\nzwalks.ui.esproj", "{45E5A475-1783-4BB8-9FBB-D81FE9613C16}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "NZWalks.UI", "..\NZWalks.UI\NZWalks.UI.esproj", "{45E5A475-1783-4BB8-9FBB-D81FE9613C16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
